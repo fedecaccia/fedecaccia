@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Federico!
 
-<!--
-**fedecaccia/fedecaccia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the CEO of [Rather Labs](https://ratherlabs.com), a company specializing in blockchain and AI. I'm passionate about building cutting-edge technology and leading innovative projects.
 
-Here are some ideas to get you started:
+## 🚀 My GitHub Stats
+![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedecaccia&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- 🔭 Currently working as:
+  - CEO @ Rather Labs (https://ratherlabs.com)
+  - CEO @ Rather Ventures (https://transcribeme.app)
+  - CEO @ Omnilane Labs (https://omnilane.xyz)
+- 🌍 Exploring new blockchain innovations
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/fedecaccia)
+
+## 💡 My Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedecaccia&layout=compact&theme=radical)
